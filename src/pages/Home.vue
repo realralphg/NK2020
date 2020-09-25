@@ -87,12 +87,12 @@
       <q-card class="q-pa-md text-grey-7 bg-grey-3" style="max-width: 300px; width: 100%"> 
           <span class="text-weight-light text-h5 text-black">Noro, baby</span>
           <p>Each passing day, I thank God I met you. <br>
-            We were made for eachother. We blend well.<br> 
+            We were made for each other. We blend well.<br> 
             Thank you for choosing and sticking by me. <br>
             Thanks for your unique friendship. <br>
             I will love you and cherish you always.<br> 
             Slowly our love will grow like a rose blooms. <br>
-            I'll love you to the end of time</p>                
+            I'll love you till the end of time</p>                
       </q-card>
     </div>
 
@@ -220,7 +220,7 @@
 <!-- Column Two -->
           <div class="col-xs-12 col-sm-6 col-md-6">
             <div class="q-pb-md">
-                <q-img  class="radius" src="images/pic7.jpg" :ratio="4/3" />
+                <q-img  class="radius" src="images/pic3.jpg" :ratio="4/3" />
             </div>
 
             <div class="q-pb-md">
@@ -325,7 +325,7 @@
 
 <!-- Appreciation -->
         <div class="text-center q-pa-md">
-          Thank's for your love <br>
+          Thanks for your love <br>
           We are excited to celebrate with you! <br>  
           Watch this space for our post-wedding Photo Gallery!       
         </div>
