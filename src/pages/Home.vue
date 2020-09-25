@@ -190,15 +190,15 @@
 <!-- Column One -->           
           <div class="col-xs-12 col-sm-6 col-md-6">
             <div class="q-pb-md">
-                <q-img  class="radius" src="images/pic111.jpg" :ratio="4/3" />
+                <q-img  class="radius" src="images/pic111.jpg" :ratio="1" />
             </div>
 
             <div class="q-pb-md">
-                <q-img class="radius"  src="images/pic112.jpg" :ratio="4/3" />
+                <q-img class="radius"  src="images/pic112.jpg" :ratio="1" />
             </div>
 
             <div class="q-pb-md">
-                <q-img class="radius"  src="images/pic1.jpg" :ratio="4/3" />
+                <q-img class="radius"  src="images/pic1.jpg" :ratio="1" />
             </div>
 
             <div class="q-pb-md">
@@ -224,7 +224,7 @@
             </div>
 
             <div class="q-pb-md">
-                <q-img class="radius"  src="images/pic8.jpg" :ratio="4/3" />
+                <q-img class="radius"  src="images/pic8.jpg" :ratio="1" />
             </div>
 
             <div class="q-pb-md">
@@ -232,19 +232,19 @@
             </div>
 
             <div class="q-pb-md">
-                <q-img class="radius"  src="images/pic10.jpg" :ratio="4/3" />
+                <q-img class="radius"  src="images/pic10.jpg" :ratio="1" />
             </div>
 
             <div class="q-pb-md">
-                <q-img class="radius"  src="images/pic11.jpg" :ratio="4/3" />
+                <q-img class="radius"  src="images/pic11.jpg" :ratio="1" />
             </div>
 
             <div class="q-pb-md">
-                <q-img class="radius"  src="images/pic12.jpg" :ratio="4/3" />
+                <q-img class="radius"  src="images/pic12.jpg" :ratio="1" />
             </div>    
 
             <div class="q-pb-md">
-                <q-img class="radius"  src="images/pic13.jpg" :ratio="4/3" />
+                <q-img class="radius"  src="images/pic13.jpg" :ratio="1" />
             </div> 
           </div>                    
         </div>
